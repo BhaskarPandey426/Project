@@ -70,13 +70,6 @@ You can also run the website locally on your computer by downloading the files a
 7. Open your browser and navigate to `http://localhost:5000` to access the API.
 8. If you encounter any errors while running the server, you can ask ChatGPT for help in debugging and resolving them.
 
-## Frontend
-The website starts from the home page as `1.html`. 
-- `2.html`, `3.html`, and `4.html` are webpages for filling user details and storing them in the database. 
-- After this step, you can easily navigate through the website as it is user-friendly.
-- You can also use the assistant bot, which can guide you through the platform.
-- Moreover, don't forget to check out the community page!
-
 ## API Endpoints
 
 ### User Registration
