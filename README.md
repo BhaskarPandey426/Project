@@ -68,8 +68,7 @@ You can also run the website locally on your computer by downloading the files a
    node server.js
    ```
 7. Open your browser and navigate to `http://localhost:5000` to access the API.
-8. If you encounter any errors while running the server, you can ask ChatGPT for help in debugging and resolving them.
-
+   
 ## API Endpoints
 
 ### User Registration
